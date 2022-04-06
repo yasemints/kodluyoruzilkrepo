@@ -8,7 +8,7 @@ bir adet de index.html dosyası barındırıyor.
 Öncelikle projeyi clonelayın.
 
 
-' git clone https://github.com/yasemints/kodluyoruzilkrepo.git '
+``` git clone https://github.com/yasemints/kodluyoruzilkrepo.git ```
 
 ## Usage
 
