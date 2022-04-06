@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [Patika Profil](https://app.patika.dev/yaseminnn)
 
 
- [![Proje Görseli](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)]
+![Proje Görseli](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)
