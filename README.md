@@ -14,6 +14,10 @@ bir adet de index.html dosyası barındırıyor.
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+Linux için 
+ 
+ ``` cd kodluyoruzilkrepo code . ```
+
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
@@ -29,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [Patika Profil](https://app.patika.dev/yaseminnn)
 
 
-![Proje Görseli](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)
+![Proje Görseli](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test1.png)
