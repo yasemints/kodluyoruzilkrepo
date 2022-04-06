@@ -7,7 +7,8 @@ bir adet de index.html dosyası barındırıyor.
 
 Öncelikle projeyi clonelayın.
 
-git clone https://github.com/yasemints/kodluyoruzilkrepo.git
+
+' git clone https://github.com/yasemints/kodluyoruzilkrepo.git '
 
 ## Usage
 
@@ -21,3 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](http://daringfireball.net/)
 
+
+! [ ] ()
