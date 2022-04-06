@@ -27,3 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 
 [Patika Profil](https://app.patika.dev/yaseminnn)
+
+
+ [![image alt text](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)](anchor link)
