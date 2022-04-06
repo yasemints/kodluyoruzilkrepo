@@ -23,10 +23,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [MIT](http://daringfireball.net/)
 
 
-![ ] (https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)
+
 
 
 [Patika Profil](https://app.patika.dev/yaseminnn)
 
 
- [![image alt text](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)](anchor link)
+ [![Proje Görseli](https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)]
