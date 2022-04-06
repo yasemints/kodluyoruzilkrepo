@@ -23,4 +23,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 [MIT](http://daringfireball.net/)
 
 
-<img title="a title" alt="Alt text" src="kodluyoruzilkrepo/test.png">
+![] (https://github.com/yasemints/kodluyoruzilkrepo/blob/main/test.png)
+
